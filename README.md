@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @PranathiReddy242
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Python
+- 👋 Hi, I’m Pranathi Tarigonda
+- 👀 I’m interested in AI and ML
+- 🌱 AI/ML Trainer | AI Generalist | ML Engineer
   
 
 <!---
